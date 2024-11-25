@@ -1,6 +1,8 @@
 module github.com/kurianoff/pgpx
 
-go 1.19
+go 1.21.0
+
+toolchain go1.23.3
 
 require (
 	encr.dev v1.27.0
